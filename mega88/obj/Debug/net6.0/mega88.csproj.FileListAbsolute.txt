@@ -1,0 +1,15 @@
+G:\Visual_Studio_radni\mega88\mega88\bin\Debug\net6.0\mega88.exe
+G:\Visual_Studio_radni\mega88\mega88\bin\Debug\net6.0\mega88.deps.json
+G:\Visual_Studio_radni\mega88\mega88\bin\Debug\net6.0\mega88.runtimeconfig.json
+G:\Visual_Studio_radni\mega88\mega88\bin\Debug\net6.0\mega88.dll
+G:\Visual_Studio_radni\mega88\mega88\bin\Debug\net6.0\mega88.pdb
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.csproj.AssemblyReference.cache
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.AssemblyInfoInputs.cache
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.AssemblyInfo.cs
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.csproj.CoreCompileInputs.cache
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.dll
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\refint\mega88.dll
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.pdb
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\mega88.genruntimeconfig.cache
+G:\Visual_Studio_radni\mega88\mega88\obj\Debug\net6.0\ref\mega88.dll
